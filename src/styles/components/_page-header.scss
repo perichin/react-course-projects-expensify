@@ -12,6 +12,12 @@
     }
 }
 
+.page-header__sub-title {
+    font-weight: 300;
+    margin: 0;
+    color: $grey;
+}
+
 .page-header__actions {
     margin-top: $m-size;
 }
